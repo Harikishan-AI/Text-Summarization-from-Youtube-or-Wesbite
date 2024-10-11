@@ -40,9 +40,10 @@ The app produces a concise summary of up to 300 words, extracted from the provid
 ### YT video Eg: https://www.youtube.com/watch?v=JpHXxsVEVXQ
 ![{65D3CA69-620D-42E8-862B-705ECAFC8A7E}](https://github.com/user-attachments/assets/2e463b64-d5a0-4b84-8f2b-2500e4703db4)
 
+### Future Enhancements:
+- **Enhanced Multilingual Support**: Future versions of the app could integrate advanced natural language processing models that handle multiple languages, broadening its use for non-English content.
+- **YouTube Videos Without transcription**: A potential enhancement would be to incorporate transcription services for summarizing YouTube videos that lack closed captions, expanding the tool’s usability across a wider range of video content.
+  
 ## Conclusion
 
 This Streamlit app simplifies the process of summarizing content from long YouTube videos and websites using LangChain and the Groq API. By automating the summarization process, it saves users time and effort while providing high-quality summaries for diverse use cases.
-
-
-
