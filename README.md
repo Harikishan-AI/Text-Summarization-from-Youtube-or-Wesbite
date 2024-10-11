@@ -1,4 +1,4 @@
-# LangChain: Summarize Text from YT or Website
+# 🦜 LangChain: Summarize Text from YT or Website
 
 This app is designed to streamline the process of summarizing textual content from YouTube videos or websites. It integrates LangChain with the Groq API for natural language processing (NLP) tasks, providing users with concise summaries of various content sources.
 
