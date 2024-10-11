@@ -22,13 +22,13 @@ Extracting key information from long videos or extensive web articles can be tim
 
 ## Tech Stack
 
-- **🎨 Streamlit**: For creating the web app interface.
-- **🦜LangChain**: A framework for building applications powered by large language models.
-- **🚀 Groq API (Gemma Model)**: To process and summarize the textual content.
-- **🐍 Python Libraries**:
-  - **🔍 validators**: For URL validation.
-  - **✏️ langchain.prompts**: For creating the prompt templates.
-  - **📹 YoutubeLoader, 🌐 UnstructuredURLLoader**: For loading content from YouTube videos or websites.
+- **Streamlit**: For creating the web app interface.
+- **LangChain**: A framework for building applications powered by large language models.
+- **Groq API (Gemma Model)**: To process and summarize the textual content.
+- **Python Libraries**: 
+  - `validators`: For URL validation.
+  - `langchain.prompts`: For creating the prompt templates.
+  - `YoutubeLoader`, `UnstructuredURLLoader`: For loading content from YouTube videos or websites.
 
 ## Output
 
